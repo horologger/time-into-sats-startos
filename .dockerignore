@@ -1,0 +1,12 @@
+node_modules/
+default-*.json
+default-env.json
+.env
+.git/
+.github/
+.yo-rc.json
+.vscode/
+.DS_Store
+scripts.thunder/
+docker-images/
+*.s9pk
